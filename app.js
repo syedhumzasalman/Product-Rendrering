@@ -217,7 +217,7 @@ document.addEventListener("DOMContentLoaded" , function () {
 
 // console.log(products);
 
-const btn = ["Electronics", "Fashion", "Home Appliances", "Books", "Beauty"];
+const btn = ["Electronics", "Fashion", "Home Appliances", "Books", "Beauty","Sports"];
 
 let BtnDisplay = document.querySelector("#BtnDisplay");
 let cardDisplay = document.querySelector("#cardDisplay");
